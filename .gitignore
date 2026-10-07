@@ -1,0 +1,9 @@
+# Public repo = presentation files only (like staree-talk). Plan, script, verification log and source stay on this Mac.
+/*
+!/.gitignore
+!/index.html
+!/1 - Days Not Weeks (light, calm)/
+!/2 - The Monitor (dark, clinical)/
+!/3 - The Journal (editorial, print)/
+!/4 - Big Type (bold, poster)/
+.DS_Store
